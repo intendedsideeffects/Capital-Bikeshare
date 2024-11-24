@@ -1,2 +1,2 @@
 # Capital-Bikeshare
-Analysis of Capital Bikeshare data and demand prediction using ML Regression
+Analysis of Capital Bikeshare data through a social justice lens. Demand prediction using ML Regression.
