@@ -1,2 +1,2 @@
 # Capital-Bikeshare
-Analysis of Capital Bikeshare Data and Demand Prediction using ML Regression
+Analysis of Capital Bikeshare data and demand prediction using ML Regression
